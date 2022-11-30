@@ -1,0 +1,1 @@
+/home/mauro/_Repositories/Rust/projects/sudoku/target/debug/libsudoku.rlib: /home/mauro/_Repositories/Rust/projects/sudoku/src/frame.rs /home/mauro/_Repositories/Rust/projects/sudoku/src/lib.rs /home/mauro/_Repositories/Rust/projects/sudoku/src/player.rs /home/mauro/_Repositories/Rust/projects/sudoku/src/render.rs
